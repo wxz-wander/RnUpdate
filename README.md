@@ -14,7 +14,9 @@
 bundle目录
 
 `cache/rn/<moduleId>/bundle/index.wallbill.bundle`
+
 `cache/rn/<moduleId>/bundle/drawable-mdpi/`
+
 `cache/rn/<moduleId>/bundle/raw/`
 
 version文件
